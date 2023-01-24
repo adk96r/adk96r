@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aditya
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning React
+- 👀 I’m a full stack developer
 - 💞️ I’m open to work
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/adk96r/)
 
