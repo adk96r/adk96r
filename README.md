@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya
-- 👀 I’m a full stack developer
+- 👀 I’m a front-end developer
 - 💞️ I’m open to work
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/adk96r/)
 
